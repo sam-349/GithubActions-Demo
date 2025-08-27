@@ -44,7 +44,9 @@ install dependencies:
 $ npm install
 ```
 Run locally 
-```$ npm test
+
+```
+$ npm test
 ```
 
 
