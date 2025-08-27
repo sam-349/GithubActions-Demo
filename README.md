@@ -16,6 +16,7 @@ The GitHub Actions workflow (`testCI.yml`) ensures that tests run automatically 
 
 ---
 
+```
 ## 📂 Project Structure
 ├── .github/
 │ └── workflows/
@@ -25,6 +26,8 @@ The GitHub Actions workflow (`testCI.yml`) ensures that tests run automatically 
 ├── package.json
 ├── package-lock.json
 └── README.md
+
+```
 
 
 
@@ -36,11 +39,12 @@ The GitHub Actions workflow (`testCI.yml`) ensures that tests run automatically 
    git clone https://github.com/<your-username>/githubactions-demo.git
    cd githubactions-demo
 
-install dependencies
+install dependencies:
+```
 $ npm install
-
+```
 Run locally 
-$ npm test
-
+```$ npm test
+```
 
 
